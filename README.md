@@ -2,8 +2,15 @@
 
 Full-stack developer at [Clearer](https://www.clearer.io/), based in Hà Nội, Việt Nam.
 
-I build small things that make everyday life a little easier, and I build them with AI agent harnesses:
-[Claude Code](https://claude.com/claude-code), [Codex CLI](https://github.com/openai/codex), [Cursor](https://cursor.com) and [Pi](https://github.com/badlogic/pi-mono).
+I build small things that make everyday life a little easier, and I build them with AI agent harnesses.
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](https://cursor.com)
+[![Pi](https://img.shields.io/badge/Pi%20agent-1E1E1E?logo=gnometerminal&logoColor=white)](https://github.com/badlogic/pi-mono)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?logo=openrouter&logoColor=white)](https://openrouter.ai)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](https://ollama.com)
+
 If something annoys me (slow DNS, a blocked site, a laggy game, a boring admin task), I hand it to an agent, then review and ship the result.
 
 #### ⭐ Popular projects
