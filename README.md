@@ -34,6 +34,11 @@ I mostly write **Go**, **TypeScript** and **Python**: network and privacy tools 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
 
+**AI coding agents I work with**
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Pi](https://img.shields.io/badge/Pi%20terminal%20agent-1E1E1E?logo=gnometerminal&logoColor=white)](https://github.com/badlogic/pi-mono)
+
 **AI stack**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
