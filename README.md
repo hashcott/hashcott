@@ -38,6 +38,8 @@ I mostly write **Go**, **TypeScript** and **Python**: network and privacy tools 
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
 [![Pi](https://img.shields.io/badge/Pi%20terminal%20agent-1E1E1E?logo=gnometerminal&logoColor=white)](https://github.com/badlogic/pi-mono)
+[![Codex CLI](https://img.shields.io/badge/Codex%20CLI-000000?logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](https://cursor.com)
 
 **AI stack**
 
